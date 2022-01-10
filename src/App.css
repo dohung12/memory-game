@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.display-images {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.photo {
+  width: 20vw;
+  height: 30vh;
+  object-fit: cover;
+}
