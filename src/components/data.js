@@ -1,53 +1,65 @@
 const data = [
   {
     id: 1,
-    img: 'https://images.pexels.com/photos/9444055/pexels-photo-9444055.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+    title: 'bread',
+    img: 'https://img.icons8.com/cotton/344/bread--v1.png',
   },
   {
     id: 2,
-    img: 'https://images.pexels.com/photos/5677309/pexels-photo-5677309.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+    title: 'ginger-bread',
+    img: 'https://img.icons8.com/cotton/452/gingerbread-house.png',
   },
   {
     id: 3,
-    img: 'https://images.pexels.com/photos/1660027/pexels-photo-1660027.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+    title: 'cherry',
+    img: 'https://img.icons8.com/cotton/452/cherry--v2.png',
   },
 
   {
     id: 4,
-    img: 'https://images.pexels.com/photos/9022035/pexels-photo-9022035.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+    title: 'grape',
+    img: 'https://img.icons8.com/cotton/452/grapes--v1.png',
   },
 
   {
     id: 5,
-    img: 'https://images.pexels.com/photos/3735169/pexels-photo-3735169.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+    title: 'stawberry',
+    img: 'https://img.icons8.com/cotton/452/strawberry-2.png',
   },
   {
     id: 6,
-    img: 'https://images.pexels.com/photos/5945603/pexels-photo-5945603.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+    title: 'ice-cream',
+    img: 'https://img.icons8.com/cotton/452/bitten-ice-pop.png',
   },
   {
     id: 7,
-    img: 'https://images.pexels.com/photos/1640774/pexels-photo-1640774.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+    title: 'Chupa-Chups',
+    img: 'https://img.icons8.com/cotton/344/chupa-chups.png',
   },
   {
     id: 8,
-    img: 'https://images.pexels.com/photos/6823302/pexels-photo-6823302.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+    title: 'chocolate',
+    img: 'https://img.icons8.com/cotton/452/chocolate-bar--v4.png',
   },
   {
     id: 9,
-    img: 'https://images.pexels.com/photos/4491291/pexels-photo-4491291.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+    title: 'Lemon-Cake',
+    img: 'https://img.icons8.com/cotton/452/piece-of-lemon-cake.png',
   },
   {
     id: 10,
-    img: 'https://images.pexels.com/photos/6608619/pexels-photo-6608619.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+    title: 'jam',
+    img: 'https://img.icons8.com/cotton/452/jam--v1.png',
   },
   {
     id: 11,
-    img: 'https://images.pexels.com/photos/7262453/pexels-photo-7262453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+    title: 'sushi',
+    img: 'https://img.icons8.com/cotton/452/sushi.png',
   },
   {
     id: 12,
-    img: 'https://images.pexels.com/photos/2773606/pexels-photo-2773606.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+    title: 'cola',
+    img: 'https://img.icons8.com/cotton/344/cola.png',
   },
 ]
 

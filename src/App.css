@@ -45,5 +45,5 @@
 .photo {
   width: 20vw;
   height: 30vh;
-  object-fit: cover;
+  object-fit: contain;
 }
